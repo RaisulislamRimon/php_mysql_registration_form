@@ -1,0 +1,22 @@
+.container {
+    text-align: center;
+    text-decoration: underline;
+    font-family: Consolas;
+    background-color: aqua;
+    border-radius: 20px;
+    padding: 2px;
+}
+form input{
+    margin: 10px;   
+    height: 45px;
+    width: 500px;
+    border-radius: 12px;
+    font-family: cursive;
+    border: outset;
+	outline-style: inherit;
+}
+#signupbtn {
+    padding: 10px;
+    margin: 10px;
+    
+}
